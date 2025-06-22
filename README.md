@@ -19,3 +19,4 @@
     7. One-to-One Relationship
     8. One-to-Many/Many-to-One Relationship
     9. Many-to-Many Relationship
+    10. Cardinality vs Ordinality
