@@ -11,3 +11,4 @@
     8. DBMS vs RDBMS Summary
 2. Database Design: Conceptual Design
     1. What is ERD? and Why?
+    2. ERD Symbols
