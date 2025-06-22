@@ -2,3 +2,4 @@
 
 1. Introduction
     1. What is Database?
+    2. What is NULL?
