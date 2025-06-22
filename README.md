@@ -16,3 +16,4 @@
     4. Entity (Strong) and Weak Entity
     5. Attributes
     6. Relationships
+    7. One-to-One Relationship
