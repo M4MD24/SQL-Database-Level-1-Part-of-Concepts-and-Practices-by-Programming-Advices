@@ -14,3 +14,4 @@
     2. ERD Symbols
     3. Components of ERD
     4. Entity (Strong) and Weak Entity
+    5. Attributes
