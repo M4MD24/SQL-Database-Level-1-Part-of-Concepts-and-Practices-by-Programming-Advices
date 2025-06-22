@@ -21,3 +21,4 @@
     9. Many-to-Many Relationship
     10. Cardinality vs Ordinality
     11. Cardinality Symbols and Practices
+    12. Total vs Partial Participation
