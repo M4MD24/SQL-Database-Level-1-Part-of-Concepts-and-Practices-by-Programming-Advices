@@ -12,3 +12,4 @@
 2. Database Design: Conceptual Design
     1. What is ERD? and Why?
     2. ERD Symbols
+    3. Components of ERD
