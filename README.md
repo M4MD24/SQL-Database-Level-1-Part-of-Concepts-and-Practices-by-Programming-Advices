@@ -6,3 +6,4 @@
     3. Primary Key vs Foreign Key / Referential Integrity
     4. What is Redundancy? and why it's a problem?
     5. What is Data Integrity? and Why it's Important and Critical?
+    6. What is Constraint? and Why it's Important?
