@@ -20,3 +20,4 @@
     8. One-to-Many/Many-to-One Relationship
     9. Many-to-Many Relationship
     10. Cardinality vs Ordinality
+    11. Cardinality Symbols and Practices
