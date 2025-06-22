@@ -5,3 +5,4 @@
     2. What is NULL?
     3. Primary Key vs Foreign Key / Referential Integrity
     4. What is Redundancy? and why it's a problem?
+    5. What is Data Integrity? and Why it's Important and Critical?
