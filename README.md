@@ -8,3 +8,4 @@
     5. What is Data Integrity? and Why it's Important and Critical?
     6. What is Constraint? and Why it's Important?
     7. What is SQL?
+    8. DBMS vs RDBMS Summary
