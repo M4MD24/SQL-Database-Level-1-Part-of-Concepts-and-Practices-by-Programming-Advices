@@ -9,3 +9,5 @@
     6. What is Constraint? and Why it's Important?
     7. What is SQL?
     8. DBMS vs RDBMS Summary
+2. Projects
+    1. University ERD
