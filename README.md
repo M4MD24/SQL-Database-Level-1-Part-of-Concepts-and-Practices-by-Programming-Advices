@@ -24,5 +24,6 @@
         11. Cardinality Symbols and Practices
         12. Total vs Partial Participation
         13. Process of Creating ERD Step by Step - Small Project
+        14. Recommended ERD Software to Use
 2. Projects
     1. University ERD
