@@ -27,5 +27,6 @@
         14. Recommended ERD Software to Use
         15. Aggregation / Associative Entities
         16. Generalization
+        17. Specialization
 2. Projects
     1. University ERD
