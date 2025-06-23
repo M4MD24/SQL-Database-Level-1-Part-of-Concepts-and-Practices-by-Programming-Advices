@@ -28,5 +28,7 @@
         15. Aggregation / Associative Entities
         16. Generalization
         17. Specialization
+    3. Relational Schema
+        1. What is Relational Schema?
 2. Projects
     1. University ERD
