@@ -34,6 +34,7 @@
         3. Convert Composite-Multivalued-Derived Attributes to Relational Schema
         4. Convert One-to-One to Relational Schema
         5. Convert One-to-Many/Many-to-One to Relational Schema
+        6. Convert Many-to-Many to Relational Schema
 2. Projects
     1. University ERD
     2. University Relational Schema
