@@ -11,3 +11,4 @@
     8. DBMS vs RDBMS Summary
 2. Projects
     1. University ERD
+    2. University Relational Schema
