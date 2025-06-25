@@ -1,2 +1,2 @@
 USE DatabaseExample
-DROP TABLE SchemaExample.Employee
+DROP TABLE SchemaExample.employee
