@@ -47,6 +47,8 @@
         6. [Create Table](src/_1_concepts/_1_1_sql_data_definition_language_ddl/_1_1_6_create_table)
         7. SQL DataTypes
         8. [Drop Table](src/_1_concepts/_1_1_sql_data_definition_language_ddl/_1_1_8_drop_table)
-2. Projects
-    1. University ERD
-    2. University Relational Schema
+    5. [DDL - Alter Table Statement](src/_1_concepts/_1_2_ddl_alter_table_statement)
+        1. [Add Column](src/_1_concepts/_1_2_ddl_alter_table_statement/_1_2_1_add_column)
+2. [Projects](src/_2_projects)
+    1. [University ERD](src/_2_projects/_2_1_university_erd)
+    2. [University Relational Schema](src/_2_projects/_2_2_university_relational_schema)
