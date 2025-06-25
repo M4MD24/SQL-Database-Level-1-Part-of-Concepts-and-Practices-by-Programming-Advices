@@ -44,6 +44,7 @@
         3. [Switch Database](src/_1_concepts/_1_1_sql_data_definition_language_ddl/_1_1_3_switch_database)
         4. [Drop Database](src/_1_concepts/_1_1_sql_data_definition_language_ddl/_1_1_4_drop_database)
         5. [Drop Database IF EXISTS](src/_1_concepts/_1_1_sql_data_definition_language_ddl/_1_1_5_drop_database_if_exists)
+        6. [Create Table](src/_1_concepts/_1_1_sql_data_definition_language_ddl/_1_1_6_create_table)
 2. Projects
     1. University ERD
     2. University Relational Schema
