@@ -1,3 +1,3 @@
 USE DatabaseExample
-ALTER TABLE SchemaExample.Employee
+ALTER TABLE SchemaExample.employee
     ADD gender CHAR(1) NULL

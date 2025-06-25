@@ -1,3 +1,3 @@
 USE DatabaseExample;
-EXEC sp_rename 'SchemaExample.Employee.gender', 'Gender', 'COLUMN'
+EXEC sp_rename 'SchemaExample.employee.gender', 'Gender', 'COLUMN'
 GO
