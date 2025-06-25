@@ -28,6 +28,16 @@
         15. Aggregation / Associative Entities
         16. Generalization
         17. Specialization
+    3. Relational Schema
+        1. What is Relational Schema?
+        2. Convert Self Referential to Relational Schema
+        3. Convert Composite-Multivalued-Derived Attributes to Relational Schema
+        4. Convert One-to-One to Relational Schema
+        5. Convert One-to-Many/Many-to-One to Relational Schema
+        6. Convert Many-to-Many to Relational Schema
+        7. Generalization and Specialization to Relational Schema
+        8. Convert Associative Entity to Relational Schema
+        9. How to create Relational Schema on ERDPlus.com?
 2. Projects
     1. University ERD
     2. University Relational Schema
