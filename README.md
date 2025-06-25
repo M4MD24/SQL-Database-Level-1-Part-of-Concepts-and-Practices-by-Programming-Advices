@@ -31,6 +31,7 @@
     3. Relational Schema
         1. What is Relational Schema?
         2. Convert Self Referential to Relational Schema
+        3. Convert Composite-Multivalued-Derived Attributes to Relational Schema
 2. Projects
     1. University ERD
     2. University Relational Schema
