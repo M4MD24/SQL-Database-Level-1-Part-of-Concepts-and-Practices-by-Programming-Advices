@@ -30,3 +30,4 @@
         17. Specialization
 2. Projects
     1. University ERD
+    2. University Relational Schema
