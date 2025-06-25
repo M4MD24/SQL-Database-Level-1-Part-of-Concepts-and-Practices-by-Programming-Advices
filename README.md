@@ -38,6 +38,8 @@
         7. Generalization and Specialization to Relational Schema
         8. Convert Associative Entity to Relational Schema
         9. How to create Relational Schema on ERDPlus.com?
+    4. [SQL - Data Definition Language - DDL](src/_1_concepts/_1_1_sql_data_definition_language_ddl)
+        1. [Create Database](src/_1_concepts/_1_1_sql_data_definition_language_ddl/_1_1_1_create_database)
 2. Projects
     1. University ERD
     2. University Relational Schema
