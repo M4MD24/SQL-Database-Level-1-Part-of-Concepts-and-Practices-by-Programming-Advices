@@ -33,3 +33,4 @@
         2. Convert Self Referential to Relational Schema
 2. Projects
     1. University ERD
+    2. University Relational Schema
