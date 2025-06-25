@@ -57,6 +57,8 @@
         1. [Backup Database](src/_1_concepts/_1_3_backup_and_restore_database/_1_3_1_backup_database)
         2. [Differential Backup](src/_1_concepts/_1_3_backup_and_restore_database/_1_3_2_differential_backup)
         3. [Restore Database](src/_1_concepts/_1_3_backup_and_restore_database/_1_3_3_restore_database)
+    7. [Data Manipulation Language - DML](src/_1_concepts/_1_4_data_manipulation_language_dml)
+        1. [Insert Into Statement](src/_1_concepts/_1_4_data_manipulation_language_dml/_1_4_1_insert_into_statement)
 2. [Projects](src/_2_projects)
     1. [University ERD](src/_2_projects/_2_1_university_erd)
     2. [University Relational Schema](src/_2_projects/_2_2_university_relational_schema)
