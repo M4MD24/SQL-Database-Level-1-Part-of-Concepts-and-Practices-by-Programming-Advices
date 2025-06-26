@@ -50,3 +50,6 @@ SELECT ID, FirstName
 FROM Employees
 WHERE ExitDate IS NOT NULL
 
+SELECT DepartmentID
+FROM Employees
+WHERE MonthlySalary <= 210
