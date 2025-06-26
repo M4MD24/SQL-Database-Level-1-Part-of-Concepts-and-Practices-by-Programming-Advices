@@ -68,6 +68,8 @@
     10. [Foreign Key Constraint](src/_1_concepts/_1_7_foreign_key_constraint)
     11. Hints
         1. Solution To: "Saving changes is not permitted" error
+    12. [SQL - Queries](src/_1_concepts/_1_8_sql_queries)
+        1. Restore Sample HR Database and Get Ready
 2. [Projects](src/_2_projects)
     1. [University ERD](src/_2_projects/_2_1_university_erd)
     2. [University Relational Schema](src/_2_projects/_2_2_university_relational_schema)
