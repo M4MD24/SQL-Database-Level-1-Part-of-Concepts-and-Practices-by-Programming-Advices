@@ -1,17 +1,17 @@
 USE DatabaseExample
 
 SELECT *
-FROM SchemaExample.Employee
+FROM SchemaExample.Employees
 
-DELETE SchemaExample.AnotherEmployee
+DELETE SchemaExample.AnotherEmployees
 
-INSERT INTO SchemaExample.AnotherEmployee
+INSERT INTO SchemaExample.AnotherEmployees
 SELECT *
-FROM SchemaExample.Employee
-
-SELECT *
-FROM SchemaExample.AnotherEmployee
+FROM SchemaExample.Employees
 
 SELECT *
-FROM SchemaExample.AnotherEmployee
+FROM SchemaExample.AnotherEmployees
+
+SELECT *
+FROM SchemaExample.AnotherEmployees
 WHERE ID < 3

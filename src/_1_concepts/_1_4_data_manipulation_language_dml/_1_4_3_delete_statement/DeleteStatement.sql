@@ -1,7 +1,7 @@
 USE DatabaseExample
 
 SELECT *
-FROM SchemaExample.Employee
+FROM SchemaExample.Employees
 
-DELETE SchemaExample.Employee
+DELETE SchemaExample.Employees
 WHERE Salary IS NULL
