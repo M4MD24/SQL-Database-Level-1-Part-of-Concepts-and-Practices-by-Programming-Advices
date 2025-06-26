@@ -21,4 +21,5 @@ INSERT INTO SchemaExample.Employees
 VALUES (7, 'Harb Al-Kirmani', NULL, NULL);
 
 -- Delete All Values
-DELETE FROM SchemaExample.Employees
+DELETE
+FROM SchemaExample.Employees

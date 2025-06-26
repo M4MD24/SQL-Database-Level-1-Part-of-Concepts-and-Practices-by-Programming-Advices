@@ -65,6 +65,7 @@
         5. [Insert Into Select from Statement](src/_1_concepts/_1_4_data_manipulation_language_dml/_1_4_5_select_into_select_from_statement)
     8. [Identity Field (Auto Increment)](src/_1_concepts/_1_5_identity_field)
     9. [Delete vs Truncate Statement](src/_1_concepts/_1_6_delete_vs_truncate_statement)
+    10. [Foreign Key Constraint](src/_1_concepts/_1_7_foreign_key_constraint)
 2. [Projects](src/_2_projects)
     1. [University ERD](src/_2_projects/_2_1_university_erd)
     2. [University Relational Schema](src/_2_projects/_2_2_university_relational_schema)
