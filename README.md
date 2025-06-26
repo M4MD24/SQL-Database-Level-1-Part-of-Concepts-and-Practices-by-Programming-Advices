@@ -66,6 +66,8 @@
     8. [Identity Field (Auto Increment)](src/_1_concepts/_1_5_identity_field)
     9. [Delete vs Truncate Statement](src/_1_concepts/_1_6_delete_vs_truncate_statement)
     10. [Foreign Key Constraint](src/_1_concepts/_1_7_foreign_key_constraint)
+    11. Hints
+        1. Solution To: "Saving changes is not permitted" error
 2. [Projects](src/_2_projects)
     1. [University ERD](src/_2_projects/_2_1_university_erd)
     2. [University Relational Schema](src/_2_projects/_2_2_university_relational_schema)
