@@ -62,6 +62,7 @@
         2. [Update Statement](src/_1_concepts/_1_4_data_manipulation_language_dml/_1_4_2_update_statement)
         3. [Delete Statement](src/_1_concepts/_1_4_data_manipulation_language_dml/_1_4_3_delete_statement)
         4. [Select Into Statement](src/_1_concepts/_1_4_data_manipulation_language_dml/_1_4_4_select_into_statement)
+        5. [Insert Into Select from Statement](src/_1_concepts/_1_4_data_manipulation_language_dml/_1_4_5_select_into_select_from_statement)
 2. [Projects](src/_2_projects)
     1. [University ERD](src/_2_projects/_2_1_university_erd)
     2. [University Relational Schema](src/_2_projects/_2_2_university_relational_schema)
