@@ -1,18 +1,18 @@
 USE DatabaseExample
 
 SELECT *
-FROM SchemaExample.Employee
+FROM SchemaExample.Employees
 
 SELECT *
-INTO SchemaExample.AnotherEmployee
-FROM SchemaExample.Employee
+INTO SchemaExample.AnotherEmployees
+FROM SchemaExample.Employees
 
 SELECT *
-FROM SchemaExample.AnotherEmployee
+FROM SchemaExample.AnotherEmployees
 
 SELECT ID, Name
-INTO SchemaExample.SecondAnotherEmployee
-FROM SchemaExample.Employee
+INTO SchemaExample.SecondAnotherEmployees
+FROM SchemaExample.Employees
 
 SELECT *
-FROM SchemaExample.SecondAnotherEmployee
+FROM SchemaExample.SecondAnotherEmployees
