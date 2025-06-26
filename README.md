@@ -75,6 +75,7 @@
         4. [Where Statement and Logical Operators](src/_1_concepts/_1_8_sql_queries/_1_8_4_where_statement_and_logical_operators)
         5. [In Keyword Operator](src/_1_concepts/_1_8_sql_queries/_1_8_5_in_keyowrd_operator)
         6. [Sorting with Order By](src/_1_concepts/_1_8_sql_queries/_1_8_6_sorting_with_order_by)
+        7. [Select Top Statement](src/_1_concepts/_1_8_sql_queries/_1_8_7_select_top_statement)
 2. [Projects](src/_2_projects)
     1. [University ERD](src/_2_projects/_2_1_university_erd)
     2. [University Relational Schema](src/_2_projects/_2_2_university_relational_schema)
