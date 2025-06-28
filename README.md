@@ -78,6 +78,7 @@
         7. [Select Top Statement](src/_1_concepts/_1_8_sql_queries/_1_8_7_select_top_statement)
         8. [Select As](src/_1_concepts/_1_8_sql_queries/_1_8_8_select_as)
         9. [Between Keyword Operator](src/_1_concepts/_1_8_sql_queries/_1_8_9_between_keyword_operator)
+        10. [Count, Sum, Avg, Min, Max Functions](src/_1_concepts/_1_8_sql_queries/_1_8_10_count_and_sum_and_avg_and_min_and_max_functions)
 2. [Projects](src/_2_projects)
     1. [University ERD](src/_2_projects/_2_1_university_erd)
     2. [University Relational Schema](src/_2_projects/_2_2_university_relational_schema)
