@@ -89,6 +89,8 @@
         3. [Left (Outer) Join](src/_1_concepts/_1_13_joins/_1_13_3_left_outer_join)
         4. [Right (Outer) Join and Full (Outer) Join](src/_1_concepts/_1_13_joins/_1_13_4_right_outer_join_and_full_outer_join)
     14. [Views](src/_1_concepts/_1_14_views)
+    15. SQL - More Queries
+        1. [Exists](src/_1_concepts/_1_15_sql_queries/_1_15_1_exists)
 2. [Projects](src/_2_projects)
     1. [University ERD](src/_2_projects/_2_1_university_erd)
     2. [University Relational Schema](src/_2_projects/_2_2_university_relational_schema)
