@@ -82,6 +82,7 @@
         11. [Group By](src/_1_concepts/_1_8_sql_queries/_1_8_11_group_by)
         12. [Having](src/_1_concepts/_1_8_sql_queries/_1_8_12_having)
         13. [Like](src/_1_concepts/_1_8_sql_queries/_1_8_13_like)
+        14. [Wildcard](src/_1_concepts/_1_8_sql_queries/_1_8_14_wildcard)
 2. [Projects](src/_2_projects)
     1. [University ERD](src/_2_projects/_2_1_university_erd)
     2. [University Relational Schema](src/_2_projects/_2_2_university_relational_schema)
