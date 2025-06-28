@@ -1,2 +1,0 @@
-USE DatabaseExample
-DROP TABLE SchemaExample.employees
