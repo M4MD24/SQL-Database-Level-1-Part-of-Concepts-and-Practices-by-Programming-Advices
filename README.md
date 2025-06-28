@@ -85,6 +85,7 @@
         14. [Wildcard](src/_1_concepts/_1_12_sql_queries/_1_12_14_wildcard)
     13. [Joins](src/_1_concepts/_1_13_joins)
         1. [Restore Shop Database](src/_1_concepts/_1_13_joins/SampleDatbase)
+        2. [(Inner) Join](src/_1_concepts/_1_13_joins/_1_13_2_inner_join)
 2. [Projects](src/_2_projects)
     1. [University ERD](src/_2_projects/_2_1_university_erd)
     2. [University Relational Schema](src/_2_projects/_2_2_university_relational_schema)
