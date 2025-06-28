@@ -81,6 +81,7 @@
         10. [Count, Sum, Avg, Min, Max Functions](src/_1_concepts/_1_8_sql_queries/_1_8_10_count_and_sum_and_avg_and_min_and_max_functions)
         11. [Group By](src/_1_concepts/_1_8_sql_queries/_1_8_11_group_by)
         12. [Having](src/_1_concepts/_1_8_sql_queries/_1_8_12_having)
+        13. [Like](src/_1_concepts/_1_8_sql_queries/_1_8_13_like)
 2. [Projects](src/_2_projects)
     1. [University ERD](src/_2_projects/_2_1_university_erd)
     2. [University Relational Schema](src/_2_projects/_2_2_university_relational_schema)
