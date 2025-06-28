@@ -68,6 +68,21 @@
     10. [Foreign Key Constraint](src/_1_concepts/_1_7_foreign_key_constraint)
     11. Hints
         1. Solution To: "Saving changes is not permitted" error
+    12. [SQL - Queries](src/_1_concepts/_1_8_sql_queries)
+        1. Restore Sample HR Database and Get Ready
+        2. [Select Statement](src/_1_concepts/_1_8_sql_queries/_1_8_2_select_statement)
+        3. [Select Distinct Statement](src/_1_concepts/_1_8_sql_queries/_1_8_3_select_distinct_statement)
+        4. [Where Statement and Logical Operators](src/_1_concepts/_1_8_sql_queries/_1_8_4_where_statement_and_logical_operators)
+        5. [In Keyword Operator](src/_1_concepts/_1_8_sql_queries/_1_8_5_in_keyowrd_operator)
+        6. [Sorting with Order By](src/_1_concepts/_1_8_sql_queries/_1_8_6_sorting_with_order_by)
+        7. [Select Top Statement](src/_1_concepts/_1_8_sql_queries/_1_8_7_select_top_statement)
+        8. [Select As](src/_1_concepts/_1_8_sql_queries/_1_8_8_select_as)
+        9. [Between Keyword Operator](src/_1_concepts/_1_8_sql_queries/_1_8_9_between_keyword_operator)
+        10. [Count, Sum, Avg, Min, Max Functions](src/_1_concepts/_1_8_sql_queries/_1_8_10_count_and_sum_and_avg_and_min_and_max_functions)
+        11. [Group By](src/_1_concepts/_1_8_sql_queries/_1_8_11_group_by)
+        12. [Having](src/_1_concepts/_1_8_sql_queries/_1_8_12_having)
+        13. [Like](src/_1_concepts/_1_8_sql_queries/_1_8_13_like)
+        14. [Wildcard](src/_1_concepts/_1_8_sql_queries/_1_8_14_wildcard)
 2. [Projects](src/_2_projects)
     1. [University ERD](src/_2_projects/_2_1_university_erd)
     2. [University Relational Schema](src/_2_projects/_2_2_university_relational_schema)
