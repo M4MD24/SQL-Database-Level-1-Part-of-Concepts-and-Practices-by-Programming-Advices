@@ -92,6 +92,7 @@
     15. SQL - More Queries
         1. [Exists](src/_1_concepts/_1_15_sql_queries/_1_15_1_exists)
         2. [Union](src/_1_concepts/_1_15_sql_queries/_1_15_2_union)
+        3. [Case](src/_1_concepts/_1_15_sql_queries/_1_15_3_case)
 2. [Projects](src/_2_projects)
     1. [University ERD](src/_2_projects/_2_1_university_erd)
     2. [University Relational Schema](src/_2_projects/_2_2_university_relational_schema)
