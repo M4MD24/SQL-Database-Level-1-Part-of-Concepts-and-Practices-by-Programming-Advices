@@ -98,6 +98,7 @@
         2. What is Constraint? and Why it's Important?
         3. Primary Key Constraint
         4. Foreign Key Constraint
+        5. Not Null Constraint
 2. [Projects](src/_2_projects)
     1. [University ERD](src/_2_projects/_2_1_university_erd)
     2. [University Relational Schema](src/_2_projects/_2_2_university_relational_schema)
