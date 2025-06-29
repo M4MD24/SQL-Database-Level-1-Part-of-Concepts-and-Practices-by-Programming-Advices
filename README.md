@@ -95,6 +95,7 @@
         3. [Case](src/_1_concepts/_1_15_sql_queries/_1_15_3_case)
     16. [More about Constraints](src/_1_concepts/_1_16_more_about_constraints)
         1. Introduction to Constraints
+        2. What is Constraint? and Why it's Important?
 2. [Projects](src/_2_projects)
     1. [University ERD](src/_2_projects/_2_1_university_erd)
     2. [University Relational Schema](src/_2_projects/_2_2_university_relational_schema)
