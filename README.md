@@ -103,6 +103,8 @@
         7. [Check Constraint](src/_1_concepts/_1_16_more_about_constraints/_1_16_7_check_constraint)
         8. [Unique Constraint](src/_1_concepts/_1_16_more_about_constraints/_1_16_8_unique_constraint)
         9. [SQL Index](src/_1_concepts/_1_16_more_about_constraints/_1_16_9_sql_index)
+    17. Normalization
+        1. What is Normalization?
 2. [Projects](src/_2_projects)
     1. [University ERD](src/_2_projects/_2_1_university_erd)
     2. [University Relational Schema](src/_2_projects/_2_2_university_relational_schema)
