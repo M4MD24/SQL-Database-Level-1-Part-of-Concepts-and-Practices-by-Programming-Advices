@@ -106,6 +106,7 @@
     17. Normalization
         1. What is Normalization?
         2. First Normal Form 1NF
+        3. Second Normal Form 2NF
 2. [Projects](src/_2_projects)
     1. [University ERD](src/_2_projects/_2_1_university_erd)
     2. [University Relational Schema](src/_2_projects/_2_2_university_relational_schema)
