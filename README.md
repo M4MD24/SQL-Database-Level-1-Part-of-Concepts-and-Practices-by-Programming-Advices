@@ -100,6 +100,7 @@
         4. Foreign Key Constraint
         5. Not Null Constraint
         6. [DEFAULT Constraint](src/_1_concepts/_1_16_more_about_constraints/_1_16_6_default_constraint)
+        7. [Check Constraint](src/_1_concepts/_1_16_more_about_constraints/_1_16_7_check_constraint)
 2. [Projects](src/_2_projects)
     1. [University ERD](src/_2_projects/_2_1_university_erd)
     2. [University Relational Schema](src/_2_projects/_2_2_university_relational_schema)

@@ -18,8 +18,8 @@ ALTER TABLE Persons
     ADD CONSTRAINT TargetAge
         DEFAULT YEAR(GETDATE()) FOR Age
 
-INSERT INTO Persons(ID, FirstName)
-VALUES (2, 'Ahmed')
+INSERT INTO Persons(ID, FirstName, SecondName)
+VALUES (2, 'Ahmed', 'Sadawy')
 
 ALTER TABLE Persons
     DROP CONSTRAINT TargetAge
