@@ -93,7 +93,7 @@
         1. [Exists](src/_1_concepts/_1_15_sql_queries/_1_15_1_exists)
         2. [Union](src/_1_concepts/_1_15_sql_queries/_1_15_2_union)
         3. [Case](src/_1_concepts/_1_15_sql_queries/_1_15_3_case)
-    16. [More about Constraints](src/_1_concepts/_1_16_more_about_constraints)
+    16. [More About Constraints](src/_1_concepts/_1_16_more_about_constraints)
         1. Introduction to Constraints
         2. What is Constraint? and Why it's Important?
         3. Primary Key Constraint
