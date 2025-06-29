@@ -93,6 +93,16 @@
         1. [Exists](src/_1_concepts/_1_15_sql_queries/_1_15_1_exists)
         2. [Union](src/_1_concepts/_1_15_sql_queries/_1_15_2_union)
         3. [Case](src/_1_concepts/_1_15_sql_queries/_1_15_3_case)
+    16. [More About Constraints](src/_1_concepts/_1_16_more_about_constraints)
+        1. Introduction to Constraints
+        2. What is Constraint? and Why it's Important?
+        3. Primary Key Constraint
+        4. Foreign Key Constraint
+        5. Not Null Constraint
+        6. [DEFAULT Constraint](src/_1_concepts/_1_16_more_about_constraints/_1_16_6_default_constraint)
+        7. [Check Constraint](src/_1_concepts/_1_16_more_about_constraints/_1_16_7_check_constraint)
+        8. [Unique Constraint](src/_1_concepts/_1_16_more_about_constraints/_1_16_8_unique_constraint)
+        9. [SQL Index](src/_1_concepts/_1_16_more_about_constraints/_1_16_9_sql_index)
 2. [Projects](src/_2_projects)
     1. [University ERD](src/_2_projects/_2_1_university_erd)
     2. [University Relational Schema](src/_2_projects/_2_2_university_relational_schema)
